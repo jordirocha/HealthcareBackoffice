@@ -37,10 +37,10 @@ Gran parte de las características se añadieron, pero debido al tiempo de un me
 - Exportación de facturas en formato Excel
 
 ### Tecnologías
-* [Laravel](https://rawg.io/apidocs)
-* [PHP](https://getbootstrap.com)
-* [Angular](https://rawg.io/apidocs)
-* [TypeScript](https://getbootstrap.com)
+* Laravel
+* PHP
+* Angular
+* TypeScript
 * HTML
 * CSS
 * JavaScript
