@@ -18,6 +18,7 @@
 * [Primeros pasos](#getting-started)
   * [Requisitos previos](#Requisitos)
   * [Ejecución local](#installation)
+  * [Enlace online](#link)
 * [Contacto](#contact)
 
 
@@ -78,7 +79,14 @@ Usuarios con rol especilista:
 brakus.herman@example.net | password </br>
 nikolaus.isabell@example.net | password
 
-## Contact
+### Enlace online
+
+El proyecto se encuentra operativo publicado en un dominio, accediendo desde el siguiente enlace:
+
+http://jordirocha-medicalcenter.infinityfreeapp.com/backend/public/portal
+
+
+## Contacto
 
 Jordi Rocha - [LinkedIn](https://es.linkedin.com/in/jordirocharocha) - jordirocharocha@gmail.com
 
