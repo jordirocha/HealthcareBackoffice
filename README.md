@@ -2,6 +2,7 @@
   <a href="http://jordirocha-medicalcenter.infinityfreeapp.com/backend/public/portal">
     <div align="center">
   <img src="https://github.com/jordirocha/HealthcareBackoffice/blob/main/readme/demo.gif" />
+  </div>
   </a>
 
   <h3 align="center">GameStore</h3>
