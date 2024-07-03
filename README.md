@@ -1,16 +1,11 @@
 <p align="center">
   <a href="http://jordirocha-medicalcenter.infinityfreeapp.com/backend/public/portal">
-    <img src="https://github.com/jordirocha/GameApp/blob/main/src/public/img/favIcon.png" alt="Logo" width="140" height="140">
+    <div align="center">
+  <img src="https://github.com/jordirocha/HealthcareBackoffice/blob/main/readme/demo.gif" />
   </a>
 
   <h3 align="center">GameStore</h3>
 
-  <p align="center">
-    Project similar to a game store on you can search, filter by, order by. For each game it will display a new page with details about it.
-    <br />
-    <br />
-    <a href="https://game-app-store.herokuapp.com/" target="_blank">View Demo</a>
-  </p>
 </p>
 
 ## Tabla de contenidos
@@ -25,9 +20,6 @@
 
 
 ## Sobre el proyecto
-<div align="center">
-  <img src="https://github.com/jordirocha/GameApp/blob/main/src/public/img/demo.gif" />
-</div>
 
 Este proyecto consitió en la creación de un software web para digitalizar los procesos manuales que el cliente realizaba manualmente, con la implementación de metologias agiles realizamos sprints de desarrollo a medida que se acerba la fecha de final de la entrega del proyecto.
 
