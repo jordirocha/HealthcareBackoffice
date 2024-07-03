@@ -5,7 +5,8 @@
   </div>
   </a>
 
-  <h3 align="center">GameStore</h3>
+  <h3 align="center">Backoffice Centro Médico
+</h3>
 
 </p>
 
@@ -81,4 +82,5 @@ nikolaus.isabell@example.net | password
 
 Jordi Rocha - [LinkedIn](https://es.linkedin.com/in/jordirocharocha) - jordirocharocha@gmail.com
 
-Project Link: [https://github.com/jordirocha/GameApp](https://github.com/jordirocha/https://github.com/jordirocha/HealthcareBackoffice/)
+Project Link: [https://github.com/jordirocha/HealthcareBackoffice
+](https://github.com/jordirocha/https://github.com/jordirocha/HealthcareBackoffice/)
