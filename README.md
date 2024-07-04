@@ -91,4 +91,4 @@ http://jordirocha-medicalcenter.infinityfreeapp.com/backend/public/portal
 Jordi Rocha - [LinkedIn](https://es.linkedin.com/in/jordirocharocha) - jordirocharocha@gmail.com
 
 Project Link: [https://github.com/jordirocha/HealthcareBackoffice
-](https://github.com/jordirocha/https://github.com/jordirocha/HealthcareBackoffice/)
+](https://github.com/jordirocha/HealthcareBackoffice)
